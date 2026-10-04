@@ -1,0 +1,75 @@
+sku_id,brand,product,category,unit,mrp,cost_price,case_size,distributor,current_stock,earliest_expiry,expiry_batch_qty,aliases
+SKU001,Dabur,Dabur Red Paste 100g,Personal care,tubes,62,53.44,12,Dabur Super Stockist,4,2027-05-27,2,red paste|dabur red|toothpaste|दंत मंजन|डाबर रेड
+SKU002,Dabur,Dabur Red Paste 200g,Personal care,tubes,112,93.53,12,Dabur Super Stockist,14,2027-02-24,7,red paste|dabur red|toothpaste
+SKU003,Dabur,Dabur Honey 250g,Health,jars,125,108.59,12,Dabur Super Stockist,10,2027-03-09,4,honey|shahad|शहद|madhu
+SKU004,Dabur,Dabur Honey 500g,Health,jars,225,192.55,6,Dabur Super Stockist,17,2027-03-28,9,honey|shahad|शहद|madhu
+SKU005,Dabur,Dabur Chyawanprash 500g,Health,jars,245,197.85,6,Dabur Super Stockist,5,2027-06-03,2,chyawanprash|च्यवनप्राश|chavanprash
+SKU006,Dabur,Real Fruit Juice Mixed Fruit 1L,Beverages,packs,120,105.37,12,Dabur Super Stockist,24,2026-10-24,24,real juice|mixed fruit juice|juice|जूस
+SKU007,Dabur,Real Orange Juice 1L,Beverages,packs,120,103.31,12,Dabur Super Stockist,6,2026-12-18,3,real orange|orange juice|juice|जूस
+SKU008,Dabur,Dabur Amla Hair Oil 180ml,Personal care,bottles,110,94.92,12,Dabur Super Stockist,22,2027-07-29,7,amla oil|amla tel|hair oil|आंवला तेल
+SKU009,Dabur,Vatika Shampoo 180ml,Personal care,bottles,155,125.59,12,Dabur Super Stockist,10,2027-04-05,6,vatika|shampoo
+SKU010,Dabur,Hajmola 120 Tablets,Health,bottles,60,50.16,24,Dabur Super Stockist,24,2027-03-19,10,hajmola|हाजमोला|churan goli
+SKU011,Dabur,Odonil Air Freshener 50g,Home care,pieces,55,45.63,24,Dabur Super Stockist,15,2027-09-13,6,odonil|air freshener|bathroom freshener
+SKU012,Dabur,Odomos Cream 50g,Personal care,tubes,95,83.04,24,Dabur Super Stockist,30,2027-08-08,16,odomos|mosquito cream|machhar cream
+SKU013,ITC,Aashirvaad Atta 5kg,Staples,bags,285,242.68,4,Shree Balaji Traders (ITC),57,2026-11-09,21,atta|aata|आटा|aashirvaad|gehun atta
+SKU014,ITC,Aashirvaad Atta 10kg,Staples,bags,545,471.87,2,Shree Balaji Traders (ITC),19,2026-11-23,11,atta|aata|आटा|aashirvaad
+SKU015,ITC,Sunfeast Dark Fantasy 75g,Biscuits,packs,40,33.42,24,Shree Balaji Traders (ITC),0,2027-01-14,0,dark fantasy|choco fills
+SKU016,ITC,Sunfeast Marie Light 250g,Biscuits,packs,40,32.73,24,Shree Balaji Traders (ITC),37,2027-01-15,14,marie light|sunfeast marie
+SKU017,ITC,Bingo Mad Angles 66g,Snacks,packs,20,16.89,48,Shree Balaji Traders (ITC),78,2026-12-16,25,mad angles|bingo
+SKU018,ITC,Bingo Tedhe Medhe 90g,Snacks,packs,20,16.1,48,Shree Balaji Traders (ITC),64,2026-11-29,20,tedhe medhe|bingo
+SKU019,ITC,YiPPee Noodles 4-pack,Noodles,packs,60,51.97,12,Shree Balaji Traders (ITC),7,2026-12-13,2,yippee|yippee noodles
+SKU020,ITC,Classmate Notebook 172 pages,Stationery,pieces,60,51.03,24,Shree Balaji Traders (ITC),20,2031-04-19,6,classmate|notebook|copy|कॉपी
+SKU021,ITC,Fiama Shower Gel 250ml,Personal care,bottles,199,171.27,12,Shree Balaji Traders (ITC),18,2027-04-03,7,fiama|shower gel|body wash
+SKU022,ITC,Savlon Handwash 200ml,Personal care,bottles,99,82.01,24,Shree Balaji Traders (ITC),10,2027-07-25,4,savlon|handwash
+SKU023,ITC,Mangaldeep Agarbatti,Pooja,packs,50,43.88,24,Shree Balaji Traders (ITC),22,2028-02-06,9,agarbatti|अगरबत्ती|mangaldeep|dhoop
+SKU024,HUL,Surf Excel Easy Wash 1kg,Home care,packs,140,122.0,12,Gupta Agencies (HUL),2,2027-04-23,1,surf|surf excel|washing powder|सर्फ
+SKU025,HUL,Rin Detergent Bar 250g,Home care,bars,35,30.18,40,Gupta Agencies (HUL),31,2027-08-22,10,rin|rin bar|kapde ka sabun
+SKU026,HUL,Vim Bar 300g,Home care,bars,35,28.54,40,Gupta Agencies (HUL),48,2027-08-24,15,vim|bartan sabun|विम
+SKU027,HUL,Lifebuoy Soap 4x100g,Personal care,packs,148,123.93,12,Gupta Agencies (HUL),9,2027-07-27,3,lifebuoy|soap|sabun|साबुन
+SKU028,HUL,Lux Soap 4x100g,Personal care,packs,160,128.56,12,Gupta Agencies (HUL),11,2027-05-29,4,lux|soap|sabun|साबुन
+SKU029,HUL,Dove Shampoo 180ml,Personal care,bottles,220,178.72,12,Gupta Agencies (HUL),5,2027-05-07,2,dove|shampoo
+SKU030,HUL,Clinic Plus Shampoo 175ml,Personal care,bottles,110,94.01,12,Gupta Agencies (HUL),8,2027-08-05,3,clinic plus|shampoo
+SKU031,HUL,Brooke Bond Red Label Tea 500g,Tea and coffee,packs,290,249.28,12,Gupta Agencies (HUL),35,2027-03-08,20,red label|chai patti|chai|चाय|चायपत्ती|tea
+SKU032,HUL,Taaza Tea 250g,Tea and coffee,packs,125,109.68,24,Gupta Agencies (HUL),12,2027-05-17,5,taaza|chai patti|chai|चाय|tea
+SKU033,HUL,Kissan Fresh Tomato Ketchup 950g,Sauces,bottles,150,123.91,12,Gupta Agencies (HUL),14,2027-01-17,5,kissan|ketchup|sauce|सॉस
+SKU034,HUL,Knorr Classic Tomato Soup,Sauces,packs,55,45.63,24,Gupta Agencies (HUL),7,2027-02-01,3,knorr|soup
+SKU035,HUL,Closeup Toothpaste 150g,Personal care,tubes,110,92.13,12,Gupta Agencies (HUL),19,2027-07-01,8,closeup|close up|toothpaste
+SKU036,HUL,Pepsodent Toothpaste 150g,Personal care,tubes,95,77.44,12,Gupta Agencies (HUL),9,2027-04-30,3,pepsodent|toothpaste
+SKU037,HUL,Horlicks Classic Malt 500g,Health,jars,265,214.75,6,Gupta Agencies (HUL),9,2027-03-15,5,horlicks|हॉर्लिक्स
+SKU038,Nestle,Maggi 2-Minute Noodles 70g,Noodles,packs,14,11.73,96,"Nestle CFA, Okhla",22,2027-01-25,11,maggi|मैगी|noodles|maggie|single maggi
+SKU039,Nestle,Maggi 2-Minute Noodles 4-pack 280g,Noodles,packs,56,45.82,24,"Nestle CFA, Okhla",0,2026-12-10,0,maggi|मैगी|maggi 4 pack|maggi family pack|maggie
+SKU040,Nestle,Maggi Masala-ae-Magic 6g,Sauces,sachets,5,4.27,120,"Nestle CFA, Okhla",96,2027-03-20,56,masala ae magic|maggi masala
+SKU041,Nestle,Nescafe Classic 50g,Tea and coffee,jars,190,158.64,12,"Nestle CFA, Okhla",12,2027-05-22,6,nescafe|coffee|कॉफी
+SKU042,Nestle,KitKat 4 Finger 37g,Confectionery,bars,30,26.0,48,"Nestle CFA, Okhla",79,2026-11-17,30,kitkat|kit kat|chocolate
+SKU043,Nestle,Munch 23g,Confectionery,bars,10,8.56,96,"Nestle CFA, Okhla",51,2027-01-18,22,munch|chocolate
+SKU044,Nestle,Everyday Dairy Whitener 400g,Dairy,packs,225,185.62,12,"Nestle CFA, Okhla",16,2027-02-28,9,everyday|milk powder|dairy whitener
+SKU045,Nestle,Cerelac Wheat 300g,Health,packs,275,238.31,12,"Nestle CFA, Okhla",14,2026-10-23,14,cerelac|baby food
+SKU046,Nestle,Maggi Hot and Sweet Sauce 500g,Sauces,bottles,125,108.05,12,"Nestle CFA, Okhla",13,2027-01-22,5,maggi sauce|hot and sweet|ketchup|sauce
+SKU047,Britannia,Britannia Good Day Cashew 200g,Biscuits,packs,40,33.24,36,"Kapoor Distributors (Britannia, Parle)",34,2026-12-16,10,good day|गुड डे
+SKU048,Britannia,Britannia Marie Gold 250g,Biscuits,packs,35,28.81,36,"Kapoor Distributors (Britannia, Parle)",28,2026-12-20,13,marie gold|marie
+SKU049,Britannia,Britannia Bourbon 150g,Biscuits,packs,35,29.91,36,"Kapoor Distributors (Britannia, Parle)",37,2026-12-19,17,bourbon
+SKU050,Britannia,Britannia White Bread 400g,Bakery,loaves,45,36.5,12,"Kapoor Distributors (Britannia, Parle)",117,2026-10-04,14,bread|ब्रेड|double roti|white bread
+SKU051,Britannia,Britannia Cake Fruity Fun 60g,Bakery,packs,20,16.32,48,"Kapoor Distributors (Britannia, Parle)",37,2026-11-24,13,cake|fruity fun
+SKU052,Britannia,Britannia 50-50 Maska Chaska,Biscuits,packs,30,24.02,36,"Kapoor Distributors (Britannia, Parle)",41,2027-01-02,22,50 50|maska chaska|fifty fifty
+SKU053,Parle,Parle-G 250g,Biscuits,packs,25,21.57,48,"Kapoor Distributors (Britannia, Parle)",14,2026-12-26,4,parle g|parle-g|parleg|पारले जी|glucose biscuit
+SKU054,Parle,Parle-G 800g,Biscuits,packs,80,68.26,12,"Kapoor Distributors (Britannia, Parle)",23,2027-01-14,11,parle g|parle-g|parleg|पारले जी
+SKU055,Parle,Parle Hide and Seek 120g,Biscuits,packs,40,34.26,36,"Kapoor Distributors (Britannia, Parle)",28,2027-01-14,12,hide and seek|hide n seek
+SKU056,Parle,Parle Krackjack 200g,Biscuits,packs,35,30.19,36,"Kapoor Distributors (Britannia, Parle)",28,2027-01-27,11,krackjack
+SKU057,Parle,Parle Monaco 120g,Biscuits,packs,30,25.1,36,"Kapoor Distributors (Britannia, Parle)",49,2026-12-20,21,monaco
+SKU058,Amul,Amul Taaza Toned Milk 500ml,Dairy,pouches,28,23.67,24,Amul Milk Depot,42,2026-10-05,15,milk|doodh|दूध|amul taaza|taaza milk
+SKU059,Amul,Amul Gold Full Cream Milk 500ml,Dairy,pouches,34,27.58,24,Amul Milk Depot,26,2026-10-05,9,milk|doodh|दूध|amul gold|full cream
+SKU060,Amul,Amul Butter 100g,Dairy,packs,58,46.93,20,Amul Milk Depot,3,2026-11-27,2,butter|makhan|मक्खन|amul butter
+SKU061,Amul,Amul Cheese Slices 200g,Dairy,packs,140,119.49,12,Amul Milk Depot,7,2026-11-17,3,cheese|cheese slice|चीज़
+SKU062,Amul,Amul Masti Dahi 400g,Dairy,cups,35,29.32,12,Amul Milk Depot,127,2026-10-06,25,dahi|curd|दही
+SKU063,Amul,Amul Malai Paneer 200g,Dairy,packs,95,80.3,12,Amul Milk Depot,30,2026-10-05,9,paneer|पनीर
+SKU064,Tata,Tata Salt 1kg,Staples,packs,28,24.11,30,"Mehta Trading Co (Tata, Marico, Colgate)",104,2027-07-18,32,salt|namak|नमक|tata namak
+SKU065,Tata,Tata Tea Premium 500g,Tea and coffee,packs,285,242.47,12,"Mehta Trading Co (Tata, Marico, Colgate)",16,2027-06-04,9,tata tea|chai patti|chai|चाय|tea
+SKU066,Tata,Tata Tea Gold 250g,Tea and coffee,packs,175,147.75,24,"Mehta Trading Co (Tata, Marico, Colgate)",11,2027-05-07,6,tata tea gold|chai patti|chai|tea
+SKU067,Tata,Tata Sampann Toor Dal 1kg,Staples,packs,180,152.05,10,"Mehta Trading Co (Tata, Marico, Colgate)",18,2027-02-14,10,toor dal|arhar dal|dal|दाल|तूर दाल
+SKU068,Marico,Parachute Coconut Oil 200ml,Personal care,bottles,100,82.43,24,"Mehta Trading Co (Tata, Marico, Colgate)",33,2027-05-10,18,parachute|coconut oil|nariyal tel|नारियल तेल
+SKU069,Marico,Saffola Gold Oil 1L,Staples,bottles,210,168.52,12,"Mehta Trading Co (Tata, Marico, Colgate)",12,2027-02-07,6,saffola|cooking oil|tel|तेल|refined
+SKU070,Marico,Saffola Masala Oats 400g,Breakfast,packs,195,162.81,12,"Mehta Trading Co (Tata, Marico, Colgate)",10,2026-12-27,6,oats|saffola oats
+SKU071,Marico,Nihar Shanti Amla Oil 200ml,Personal care,bottles,75,61.29,24,"Mehta Trading Co (Tata, Marico, Colgate)",25,2027-03-30,9,nihar|amla oil|hair oil
+SKU072,Colgate,Colgate Strong Teeth 200g,Personal care,tubes,120,99.92,12,"Mehta Trading Co (Tata, Marico, Colgate)",18,2027-08-24,6,colgate|toothpaste|कोलगेट
+SKU073,Colgate,Colgate MaxFresh 150g,Personal care,tubes,110,95.51,12,"Mehta Trading Co (Tata, Marico, Colgate)",21,2027-07-28,11,maxfresh|colgate|toothpaste
+SKU074,Colgate,Palmolive Soap 3x75g,Personal care,packs,110,90.06,12,"Mehta Trading Co (Tata, Marico, Colgate)",13,2027-06-27,5,palmolive|soap|sabun
