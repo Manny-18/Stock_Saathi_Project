@@ -1,7 +1,6 @@
 # StockSaathi: AI stock assistant for small retailers
 
 AI Application End Term Project, use case 11 (Inventory / stock query assistant, Chatbot).
-Author: Aakash Goswami (065061), FORE School of Management.
 
 Ask about stock, reorders, expiry and sales in Hindi, English or Hinglish, typed or spoken.
 Google Gemini understands the question and calls Python tools; every number comes from
